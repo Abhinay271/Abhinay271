@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0b1f,50:14144d,100:2b2b5f&height=220&section=header&text=N%20Abhinay%20Reddy&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=Associate%20Software%20Engineer%20|%20AI%20%26%20ML%20Developer%20|%203x%20IEEE%20Researcher&descAlignY=65&descSize=20&animation=fadeIn"/>
+![](https://capsule-render.vercel.app/api?type=rect&color=0:0b0b1f,50:14144d,100:2b2b5f&height=200&section=header&text=N%20Abhinay%20Reddy&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=Associate%20Software%20Engineer%20|%20AI%20%26%20ML%20Developer&descAlignY=68&descSize=20)
 
 <br>
 
@@ -22,23 +22,21 @@
 
 ---
 
-<img width="42%" align="right" alt="Coding" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="45%" align="right" alt="Coding" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 # 👋 About Me
 
-🎓 **B.Tech in Computer Science (Artificial Intelligence)** @ Amrita Vishwa Vidyapeetham  
+🎓 **B.Tech in Computer Science (AI)** @ Amrita Vishwa Vidyapeetham  
 
 ⚙️ **Associate Software Engineer** @ Vergil Remnant, Hyderabad  
 
-🤖 Passionate about building intelligent backend systems, AI-powered applications, and scalable APIs  
+🤖 Specializing in **Software Engineering**, **Machine Learning**, and **NLP**  
 
-📄 **3× Internationally Published IEEE Researcher**  
+📄 **3× Internationally Published Researcher** (ICACRS · ICIPTM · GCITC)  
 
-🧠 Specialized in **Machine Learning, NLP, Deep Learning, Computer Vision, and Backend Engineering**  
+🧠 Passionate about building intelligent systems that solve real-world problems  
 
-📍 Hyderabad, Telangana, India  
-
----
+📍 Hyderabad, Telangana, India
 
 > *"Turning data into decisions — one API, one model, one publication at a time."*
 
@@ -48,8 +46,8 @@
 
 ```text
 Jul 2024 – Present      Associate Software Engineer · Vergil Remnant
-                         ↳ Django REST APIs · PostgreSQL · Backend workflows
-                         ↳ Authentication systems · Data validation · Agile development
+                         ↳ Django REST APIs · SQL optimization
+                         ↳ Authentication systems · Agile feature development
 
 2020 – 2024             B.Tech Computer Science (AI)
                          ↳ Amrita Vishwa Vidyapeetham
@@ -75,7 +73,7 @@ AI system that converts numerical code into mathematical functions using NLP and
 ### Highlights
 - ChatGPT & Bard based code analysis
 - Human-readable equation generation
-- Research publication at IEEE ICACRS 2023
+- Published at IEEE ICACRS 2023
 
 </td>
 
@@ -92,7 +90,7 @@ Machine learning system for crop prediction and market profit analysis.
 - Soil parameter analysis
 - Rainfall & crop prediction
 - Voting Classifier implementation
-- IEEE ICIPTM 2024 publication
+- Published at IEEE ICIPTM 2024
 
 </td>
 
@@ -113,7 +111,7 @@ AI-powered attendance automation using facial recognition.
 - Real-time face recognition
 - Multi-person attendance detection
 - Automated tracking system
-- IEEE GCITC 2023 publication
+- Published at IEEE GCITC 2023
 
 </td>
 
@@ -129,7 +127,6 @@ Production-grade backend APIs and workflow systems developed at Vergil Remnant.
 ### Highlights
 - Role-based authentication
 - SQL query optimization
-- Python transformation pipelines
 - Backend workflow automation
 
 </td>
