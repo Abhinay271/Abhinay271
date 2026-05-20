@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=a0b4ff&center=true&vCenter=true&width=600&lines=Associate+Software+Engineer+%7C+AI+%26+ML+Developer;3x+IEEE+Published+Researcher+%7C+Hyderabad%2C+India" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=a0b4ff&center=true&vCenter=true&width=600&lines=Associate+Software+Engineer;3x+IEEE+Published+Researcher+%7C+Hyderabad%2C+India" alt="Typing SVG" />
 
 # N Abhinay Reddy
 
