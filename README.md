@@ -1,24 +1,12 @@
 <div align="center">
 
-<svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0b0b1f"/>
-      <stop offset="50%" style="stop-color:#14144d"/>
-      <stop offset="100%" style="stop-color:#2b2b5f"/>
-    </linearGradient>
-  </defs>
-  <rect width="800" height="200" fill="url(#bg)" rx="12"/>
-  <text x="400" y="95" font-family="Arial, sans-serif" font-size="42" font-weight="bold" fill="white" text-anchor="middle">N Abhinay Reddy</text>
-  <text x="400" y="140" font-family="Arial, sans-serif" font-size="18" fill="#a0b4ff" text-anchor="middle">Associate Software Engineer | AI &amp; ML Developer | 3x IEEE Published Researcher</text>
-  <text x="400" y="170" font-family="Arial, sans-serif" font-size="14" fill="#6b7db3" text-anchor="middle">Hyderabad, Telangana, India</text>
-</svg>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=a0b4ff&center=true&vCenter=true&width=600&lines=Associate+Software+Engineer+%7C+AI+%26+ML+Developer;3x+IEEE+Published+Researcher+%7C+Hyderabad%2C+India" alt="Typing SVG" />
 
-<br/>
+# N Abhinay Reddy
 
 [![GitHub](https://img.shields.io/badge/GITHUB-ABHINAY271-2f2f2f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhinay271)
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-VISIT%20NOW-0f3460?style=for-the-badge&logo=safari&logoColor=white)](https://Abhinay271.github.io/portfolio)
-[![Email](https://img.shields.io/badge/EMAIL-REDDYABHINAY271%40GMAIL.COM-e65c4f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reddyabhinay271@gmail.com)
+[![Email](https://img.shields.io/badge/EMAIL-reddyabhinay271%40gmail.com-e65c4f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reddyabhinay271@gmail.com)
 [![Location](https://img.shields.io/badge/📍-HYDERABAD%2C%20TELANGANA-43c463?style=for-the-badge)](https://github.com/Abhinay271)
 
 </div>
