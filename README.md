@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,40:1a1a2e,70:16213e,100:0f3460&height=220&section=header&text=N%20Abhinay%20Reddy&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Associate%20Software%20Engineer%20%7C%20AI%20%26%20ML%20Developer%20%7C%203x%20Published%20Researcher&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,40:1a1a2e,70:16213e,100:0f3460&height=220&section=header&text=N%20Abhinay%20Reddy&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Associate%20Software%20Engineer%20%7C%20AI%20%26%20ML%20Developer%20%7C%203x%20Published%20Researcher&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/></div>
 
 <div align="center">
 
@@ -207,4 +207,4 @@ Production-grade data workflow APIs at Vergil Remnant.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:0a0a0a&height=120&section=footer" width="100%"/>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:0a0a0a&height=120&section=footer" width="100%"/></div>
