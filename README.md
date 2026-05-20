@@ -1,9 +1,9 @@
-<a href="https://github.com/Abhinay271"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,40:1a1a2e,70:16213e,100:0f3460&height=220&section=header&text=N%20Abhinay%20Reddy&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%7C%20AI%20%26%20ML%20Developer%20%7C%203x%20Published%20Researcher&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,40:1a1a2e,70:16213e,100:0f3460&height=220&section=header&text=N%20Abhinay%20Reddy&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Associate%20Software%20Engineer%20%7C%20AI%20%26%20ML%20Developer%20%7C%203x%20Published%20Researcher&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhinay%20Reddy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinay-reddy)
 [![GitHub](https://img.shields.io/badge/GitHub-Abhinay271-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhinay271)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Abhinay%20Reddy-0f3460?style=for-the-badge&logo=safari&logoColor=white)](https://Abhinay271.github.io/portfolio)
 [![Email](https://img.shields.io/badge/Email-reddyabhinay271@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reddyabhinay271@gmail.com)
 [![Location](https://img.shields.io/badge/📍-Hyderabad,%20Telangana-34A853?style=for-the-badge)](https://github.com/Abhinay271)
 
@@ -17,7 +17,7 @@
 
 🎓 **B.Tech in Computer Science (AI)** @ Amrita Vishwa Vidyapeetham  
 ⚙️ **Associate Software Engineer** @ Vergil Remnant, Hyderabad  
-🤖 Specializing in **Backend Engineering**, **Machine Learning**, and **NLP**  
+🤖 Specializing in **Software Engineering**, **Machine Learning**, and **NLP**  
 📄 **3× Internationally Published Researcher** (ICACRS · ICIPTM · GCITC)  
 🧠 Passionate about building intelligent systems that solve real-world problems  
 📍 Hyderabad, Telangana, India
@@ -195,7 +195,7 @@ Production-grade data workflow APIs at Vergil Remnant.
 | 🎓 **Education** | B.Tech AI @ Amrita Vishwa Vidyapeetham (2020–2024) |
 | 🏢 **Experience** | Associate Software Engineer @ Vergil Remnant (Jul 2024 – Mar 2026) |
 | 📄 **Publications** | 3× International IEEE Conference Papers |
-| 🔍 **Interests** | Backend Engineering · AI Systems · Data Science · Open Source |
+| 🔍 **Interests** | Software Engineering · AI Systems · Data Science · Open Source |
 
 ---
 
@@ -207,4 +207,4 @@ Production-grade data workflow APIs at Vergil Remnant.
 
 </div>
 
-<a href="https://github.com/Abhinay271"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:0a0a0a&height=120&section=footer" width="100%"/></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:0a0a0a&height=120&section=footer" width="100%"/>
