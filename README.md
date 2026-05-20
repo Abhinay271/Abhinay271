@@ -1,8 +1,6 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a0a0a,40:1a1a2e,70:16213e,100:0f3460&amp;height=220&amp;section=header&amp;text=N%20Abhinay%20Reddy&amp;fontSize=48&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Associate%20Software%20Engineer%20%7C%20AI%20%26%20ML%20Developer%20%7C%203x%20Published%20Researcher&amp;descAlignY=58&amp;descSize=17&amp;animation=fadeIn" width="100%"/>
-</div>
 
-<div align="center">
+![](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,40:1a1a2e,70:16213e,100:0f3460&height=220&section=header&text=N%20Abhinay%20Reddy&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Associate%20Software%20Engineer%20%7C%20AI%20%26%20ML%20Developer%20%7C%203x%20Published%20Researcher&descAlignY=58&descSize=17&animation=fadeIn)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Abhinay271-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhinay271)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Abhinay%20Reddy-0f3460?style=for-the-badge&logo=safari&logoColor=white)](https://Abhinay271.github.io/portfolio)
@@ -31,12 +29,12 @@
 # 💼 Career Timeline
 
 ```text
-Jul 2024 – Mar 2026   Associate Software Engineer · Vergil Remnant, Hyderabad
-                       ↳ Django REST APIs · SQL optimization · Role-based auth systems
-                       ↳ Python data validation · Agile feature development
+Jul 2024 – Present      Associate Software Engineer · Vergil Remnant, Hyderabad
+                         ↳ Django REST APIs · SQL optimization · Role-based auth systems
+                         ↳ Python data validation · Agile feature development
 
-2020 – 2024           B.Tech Computer Science (AI) · Amrita Vishwa Vidyapeetham
-                       ↳ CGPA: 7.21/10 | Specialized in Artificial Intelligence
+2020 – 2024             B.Tech Computer Science (AI) · Amrita Vishwa Vidyapeetham
+                         ↳ CGPA: 7.21/10 | Specialized in Artificial Intelligence
 ```
 
 ---
@@ -45,9 +43,11 @@ Jul 2024 – Mar 2026   Associate Software Engineer · Vergil Remnant, Hyderabad
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 ## 🧮 Generative AI: Code → Math Functions
+
 **Generative AI · NLP · Python**
 
 AI system that transforms numerical code into human-readable mathematical functions.
@@ -65,12 +65,13 @@ AI system that transforms numerical code into human-readable mathematical functi
 <td width="50%" valign="top">
 
 ## 🌾 AI-Driven Agronomy System
+
 **Machine Learning · Data Science · Python**
 
 Intelligent crop prediction and market analytics platform for farmers.
 
 - Used soil parameters (N, P, K), rainfall & district data
-- **Voting Classifier** combining multiple ML models for accuracy
+- Voting Classifier combining multiple ML models for accuracy
 - Dataset from Tamil Nadu Agricultural University
 
 `Scikit-learn` `Pandas` `NumPy` `ML`
@@ -78,17 +79,20 @@ Intelligent crop prediction and market analytics platform for farmers.
 📄 *Published at IEEE ICIPTM 2024*
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
 ## 👁️ DeepVision Attendance System
+
 **Computer Vision · Deep Learning · Python**
 
 Real-time facial recognition system for automated attendance tracking.
 
-- Combined **HOG + CNN** for high recognition accuracy
+- Combined HOG + CNN for high recognition accuracy
 - Handles multi-person group images simultaneously
 - Reduces institutional manual effort dramatically
 
@@ -101,11 +105,12 @@ Real-time facial recognition system for automated attendance tracking.
 <td width="50%" valign="top">
 
 ## ⚙️ Backend Workflow Engine
+
 **Django · REST APIs · PostgreSQL**
 
 Production-grade data workflow APIs at Vergil Remnant.
 
-- Designed **role-based access control** & session handling
+- Designed role-based access control & session handling
 - Optimized SQL queries for reporting & validation
 - Built Python transformation modules for data consistency
 
@@ -114,6 +119,7 @@ Production-grade data workflow APIs at Vergil Remnant.
 🏢 *Professional · Vergil Remnant*
 
 </td>
+
 </tr>
 </table>
 
@@ -123,9 +129,9 @@ Production-grade data workflow APIs at Vergil Remnant.
 
 | # | Title | Conference | Year |
 |---|---|---|---|
-| 1 | [**Generative AI-Driven Approach to Converting Numerical Code into Mathematical Functions**](https://ieeexplore.ieee.org/document/10405148) | IEEE ICACRS | 2023 |
-| 2 | [**DeepVision Attendance: A Visual Recognition System for Automated Attendance Tracking**](https://ieeexplore.ieee.org/document/10425992) | IEEE GCITC | 2023 |
-| 3 | [**AI-Driven Agronomy: Enhancing Crop Yield and Market Profits**](https://ieeexplore.ieee.org/document/10563562) | IEEE ICIPTM | 2024 |
+| 1 | [Generative AI-Driven Approach to Converting Numerical Code into Mathematical Functions](https://ieeexplore.ieee.org/document/10405148) | IEEE ICACRS | 2023 |
+| 2 | [DeepVision Attendance: A Visual Recognition System for Automated Attendance Tracking](https://ieeexplore.ieee.org/document/10425992) | IEEE GCITC | 2023 |
+| 3 | [AI-Driven Agronomy: Enhancing Crop Yield and Market Profits](https://ieeexplore.ieee.org/document/10563562) | IEEE ICIPTM | 2024 |
 
 ---
 
@@ -171,17 +177,13 @@ Production-grade data workflow APIs at Vergil Remnant.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abhinay271&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+![](https://github-readme-stats.vercel.app/api?username=Abhinay271&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinay271&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+![](https://github-readme-streak-stats.herokuapp.com/?user=Abhinay271&theme=tokyonight&hide_border=true&border_radius=10)
 
-<br><br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinay271&theme=tokyonight&hide_border=true&border_radius=10&layout=compact)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinay271&theme=tokyonight&hide_border=true&border_radius=10&layout=compact" width="48%" />
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Abhinay271&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+![](https://github-profile-trophy.vercel.app/?username=Abhinay271&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
 </div>
 
@@ -191,11 +193,11 @@ Production-grade data workflow APIs at Vergil Remnant.
 
 | | |
 |---|---|
-| 🗣️ **Languages** | English · Telugu (Native) · Hindi |
-| 🎓 **Education** | B.Tech AI @ Amrita Vishwa Vidyapeetham (2020–2024) |
-| 🏢 **Experience** | Associate Software Engineer @ Vergil Remnant |
-| 📄 **Publications** | 3× International IEEE Conference Papers |
-| 🔍 **Interests** | Software Engineering · AI Systems · Data Science · Open Source |
+| 🗣️ Languages | English · Telugu · Hindi |
+| 🎓 Education | B.Tech AI @ Amrita Vishwa Vidyapeetham |
+| 🏢 Experience | Associate Software Engineer @ Vergil Remnant |
+| 📄 Publications | 3× International IEEE Conference Papers |
+| 🔍 Interests | Software Engineering · AI Systems · Data Science |
 
 ---
 
@@ -205,10 +207,12 @@ Production-grade data workflow APIs at Vergil Remnant.
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Abhinay271&color=0f3460&style=flat-square&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=Abhinay271&color=0f3460&style=flat-square&label=Profile+Views)
 
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f3460,50:16213e,100:0a0a0a&amp;height=120&amp;section=footer" width="100%"/>
+
+![](https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:0a0a0a&height=120&section=footer)
+
 </div>
