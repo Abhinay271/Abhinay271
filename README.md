@@ -1,20 +1,12 @@
 <div align="center">
 
-![](https://capsule-render.vercel.app/api?type=rect&color=0:0b0b1f,50:14144d,100:2b2b5f&height=200&section=header&text=N%20Abhinay%20Reddy&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=Associate%20Software%20Engineer%20|%20AI%20%26%20ML%20Developer&descAlignY=68&descSize=20)
-
-<br>
+![Banner](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0b0b1f,50:14144d,100:2b2b5f&text=N%20Abhinay%20Reddy&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Associate%20Software%20Engineer%20%7C%20AI%20%26%20ML%20Developer&descAlignY=62&descSize=20)
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-ABHINAY%20REDDY-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-
 [![GitHub](https://img.shields.io/badge/GITHUB-ABHINAY271-2f2f2f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhinay271)
-
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-ABHINAY%20REDDY-0f3460?style=for-the-badge&logo=safari&logoColor=white)](https://abhinay271.github.io)
 
-<br>
-
 [![Email](https://img.shields.io/badge/EMAIL-REDDYABHINAY271%40GMAIL.COM-e65c4f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reddyabhinay271@gmail.com)
-
-<br>
 
 [![Location](https://img.shields.io/badge/📍-HYDERABAD,%20TELANGANA-43c463?style=for-the-badge)](https://github.com/Abhinay271)
 
@@ -22,21 +14,23 @@
 
 ---
 
-<img width="45%" align="right" alt="Coding" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="42%" align="right" alt="Coding" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 # 👋 About Me
 
-🎓 **B.Tech in Computer Science (AI)** @ Amrita Vishwa Vidyapeetham  
+🎓 **B.Tech in Computer Science (Artificial Intelligence)** @ Amrita Vishwa Vidyapeetham  
 
 ⚙️ **Associate Software Engineer** @ Vergil Remnant, Hyderabad  
 
-🤖 Specializing in **Software Engineering**, **Machine Learning**, and **NLP**  
+🤖 Passionate about building intelligent backend systems, AI-powered applications, and scalable APIs  
 
-📄 **3× Internationally Published Researcher** (ICACRS · ICIPTM · GCITC)  
+📄 **3× Internationally Published IEEE Researcher**  
 
-🧠 Passionate about building intelligent systems that solve real-world problems  
+🧠 Specialized in **Machine Learning, NLP, Deep Learning, Computer Vision, and Backend Engineering**  
 
-📍 Hyderabad, Telangana, India
+📍 Hyderabad, Telangana, India  
+
+---
 
 > *"Turning data into decisions — one API, one model, one publication at a time."*
 
@@ -46,8 +40,8 @@
 
 ```text
 Jul 2024 – Present      Associate Software Engineer · Vergil Remnant
-                         ↳ Django REST APIs · SQL optimization
-                         ↳ Authentication systems · Agile feature development
+                         ↳ Django REST APIs · PostgreSQL · Backend workflows
+                         ↳ Authentication systems · Data validation · Agile development
 
 2020 – 2024             B.Tech Computer Science (AI)
                          ↳ Amrita Vishwa Vidyapeetham
@@ -73,7 +67,7 @@ AI system that converts numerical code into mathematical functions using NLP and
 ### Highlights
 - ChatGPT & Bard based code analysis
 - Human-readable equation generation
-- Published at IEEE ICACRS 2023
+- Research publication at IEEE ICACRS 2023
 
 </td>
 
@@ -90,7 +84,7 @@ Machine learning system for crop prediction and market profit analysis.
 - Soil parameter analysis
 - Rainfall & crop prediction
 - Voting Classifier implementation
-- Published at IEEE ICIPTM 2024
+- IEEE ICIPTM 2024 publication
 
 </td>
 
@@ -111,7 +105,7 @@ AI-powered attendance automation using facial recognition.
 - Real-time face recognition
 - Multi-person attendance detection
 - Automated tracking system
-- Published at IEEE GCITC 2023
+- IEEE GCITC 2023 publication
 
 </td>
 
@@ -127,6 +121,7 @@ Production-grade backend APIs and workflow systems developed at Vergil Remnant.
 ### Highlights
 - Role-based authentication
 - SQL query optimization
+- Python transformation pipelines
 - Backend workflow automation
 
 </td>
