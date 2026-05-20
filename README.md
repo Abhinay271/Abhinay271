@@ -3,8 +3,11 @@
 ![](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,40:1a1a2e,70:16213e,100:0f3460&height=220&section=header&text=N%20Abhinay%20Reddy&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Associate%20Software%20Engineer%20%7C%20AI%20%26%20ML%20Developer%20%7C%203x%20Published%20Researcher&descAlignY=58&descSize=17&animation=fadeIn)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Abhinay271-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhinay271)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Abhinay%20Reddy-0f3460?style=for-the-badge&logo=safari&logoColor=white)](https://Abhinay271.github.io/portfolio)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Abhinay%20Reddy-0f3460?style=for-the-badge&logo=safari&logoColor=white)](https://abhinay271.github.io)
+
 [![Email](https://img.shields.io/badge/Email-reddyabhinay271@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reddyabhinay271@gmail.com)
+
 [![Location](https://img.shields.io/badge/📍-Hyderabad,%20Telangana-34A853?style=for-the-badge)](https://github.com/Abhinay271)
 
 </div>
@@ -108,7 +111,7 @@ Real-time facial recognition system for automated attendance tracking.
 
 **Django · REST APIs · PostgreSQL**
 
-Production-grade data workflow APIs at Vergil Remnant.
+Production-grade backend system at Vergil Remnant.
 
 - Designed role-based access control & session handling
 - Optimized SQL queries for reporting & validation
@@ -116,7 +119,7 @@ Production-grade data workflow APIs at Vergil Remnant.
 
 `Django` `FastAPI` `PostgreSQL` `Docker`
 
-🏢 *Professional · Vergil Remnant*
+🏢 *Professional Experience*
 
 </td>
 
